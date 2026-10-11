@@ -7,7 +7,7 @@ cask "aircontrol" do
   desc "Control your Mac with in-air hand gestures from the webcam — fully on-device"
   homepage "https://getaircontrol.vercel.app"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "AirControl.app"
 
