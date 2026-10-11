@@ -1,6 +1,6 @@
 cask "aircontrol" do
   version "0.5.0"
-  sha256 "2745b6e731a6c29f34fee4e012edebd1b25ea7bb5c4c3ebf1ee05d082c585e17"
+  sha256 "f39a53d4f59df9d3c1ab1c0fca882cce26e3c1664953d0b929f7571a823f7210"
 
   url "https://getaircontrol.vercel.app/AirControl-#{version}.dmg"
   name "AirControl"
